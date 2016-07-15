@@ -4,7 +4,7 @@ class HomeCtrl {
 
     this.appName = AppConstants.appName;
 
-
+    console.log("Hello");
   }
 
 
